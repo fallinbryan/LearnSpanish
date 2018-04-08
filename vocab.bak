@@ -1,0 +1,763 @@
+el actor,actor,0
+la actriz,actress,0
+la entrada,ticket,0
+la estrella,star,0
+la pantalla,screen,0
+la comedia,comedy,0
+el documental,documentary,0
+una película…,a… film,0
+de acción,action,0
+de ciencia ficción,science fiction,0
+dramática,drama,0
+de guerra,war,0
+de misterio,mystery,0
+musical,musical,0
+romántica,romantic,0
+de terror,horror,0
+estrenar una película,to release a film,0
+presentar una película,to show a film,0
+el estreno,opening,0
+aburrida,boring,0
+animada,animated,0
+conmovedora,moving,0
+creativa,creative,0
+deprimente,depressing,0
+emocionante,moving,0
+entretenida,entertaining,0
+épica,epic,0
+de espanto,scary,0
+estupenda,stupendous,0
+imaginativa,imaginative,0
+impresionante,impressive,0
+sorprendente,surprising,0
+de suspenso ,suspenseful,0
+trágica,tragic,0
+el/la artista,artist,0
+el/la cantante,singer,0
+el conjunto,group/band,0
+el empresario,agent,0
+el guitarrista,guitarist,0
+el músico,musician,0
+el/la pianista,pianist,0
+la batería,drums,0
+el concierto,concert,0
+la gira,tour,0
+la guitarra ,guitar,0
+la música,music,0
+la orquesta,orchestra,0
+el piano,piano,0
+el tambor,drum,0
+la trompeta,trumpet,0
+cantar,to sing,0
+dar un concierto,to perform a concert,0
+ensayar,to practice,0
+grabar,to record,0
+hacer una gira,to tour,0
+sacar una canción,to release a song,0
+el jazz,jazz,0
+la música clásica,classical music,0
+la música folclórica,folk music,0
+la música popular,pop music,0
+la música rap,rap music,0
+la opera,opera,0
+el rock,rock,0
+la salsa,salsa,0
+apasionado,passionate,0
+fino,fine/delicate,0
+lento,slow,0
+suave,smooth,0
+el aficionada,fan,0
+la fama,fame,0
+el genero,genre,0
+la habilidad,ability/skill,0
+la letra,lyrics,0
+el ritmo,rhythm,0
+la voz,voice,0
+me,direct object me,0
+te,direct object you (fam),0
+lo/la,direct object you (form),0
+lo/la,direct object  him/her/it,0
+nos,direct object us,0
+os,direct object yawl ,0
+los/las,direct object yawl (form spain),0
+los/las,direct object them,0
+yo aprendí,I learned (pret),0
+tu aprendiste,you learned (pret fam),0
+Ud. Aprendió,you learned (pret form),0
+el aprendió,he learned (pret),0
+nosotros aprendimos,we learned (pret),0
+vosotros aprendisteis,yawl learned (pret spain),0
+Uds. Aprendieron,yawl learned (pret),0
+ellos aprendieron,they learned (pret),0
+yo escribí,I wrote (pret),0
+tu escribiste,you wrote (pret fam),0
+Ud. Escribió,you wrote (pret form),0
+el escribió,he wrote (pret),0
+nosotros escribimos,we wrote (pret),0
+vosotros escribisteis,yawl wrote (pret spain),0
+Uds. Escribieron,yawl wrote (pret),0
+ellos escribieron,they wrote (pret),0
+anoche,last night,0
+anteayer,the day before yesterday,0
+ayer,yesterday,0
+al ano pasado,last year,0
+el fin de semana pasado,last weekend,0
+el martes pasado,last Tuesday,0
+la semana pasada,las week,0
+yo escuché,I heard (pret),0
+tu escuchaste,you heard(pret fam),0
+Ud. escuchó,you heard(pret form),0
+el escuchó,he heard (pret),0
+nosotros escuchamos,we heard (pret),0
+vosotros escuchasteis,yawl heard (pret spain),0
+Uds. Escucharon,yawl heard (pret),0
+ellos escucharon,they heard,0
+este / esta,this one,0
+estos estas,these,0
+ese / esa,that one,0
+esos / esas,those,0
+aquel / aquella,that one (far away),0
+aquellos / aquellas,those (far away),0
+apoyar a un candidato,to support a candidate,0
+ayudar a los personas mayores,to help elderly people,0
+circular una petición,to circulate a petition,0
+dar un paseo,to go for a walk,0
+deber,should,0
+el deber,obligation,0
+hacer artesanía,to make arts and crafts,0
+hacer una hoguera,to light a campfire,0
+ir de excursión,to take a short trip,0
+ir de campin,to go camping,0
+montar una tienda de campana,to put up a tent,0
+organizar,to organize,0
+participar en una campana política,to participate in a political campaign,0
+repartir comidas,to hand out/deliver food,0
+trabajar como consejero,to work as a counselor,0
+trabajar como voluntario en la residencia de ancianos,to volunteer at a nursing home,0
+trabajar en el campamento de niños,to work in summer camp,0
+trabajar en política,to work in politics,0
+viajar en canoa,to canoe,0
+el voluntariado,volunteerism,0
+a veces,sometimes,0
+algo,something/anything,0
+alguien,someone,0
+algún,some masc. sing adj,0
+alguno,some/any (adj),0
+o … o,either … or,0
+siempre,always,0
+jamás,never/ not ever (emphatic),0
+nada,nothing,0
+nadie,no one; nobody,0
+ni … ni,neither … nor,0
+ningún,none masc. sing adj,0
+ninguno,none (adj),0
+nunca,never ,0
+el almacén,department store,0
+el banco,bank,0
+el bar / el club,bar / club,0
+el café,café,0
+el cajero automático,ATM,0
+el centro,downtown,0
+el centro comercial,mall / business or shopping district,0
+el cibercafé,internet café,0
+el cine,movie theater,0
+la iglesia,church,0
+el mercado,market,0
+el museo,museum,0
+la oficina de correos,post office,0
+el parque,park,0
+la plaza,town square,0
+el restaurante,restaurant,0
+el supermercado,supermarket,0
+el teatro,theater,0
+el templo,temple,0
+buscar,to look for,0
+ir,to go,0
+mandar un carta,to send a letter,0
+saber,to know,0
+almorzar,to have lunch,0
+cerrar,to close,0
+comenzar,to begin,0
+costar,to cost,0
+demostrar,to demonstrate,0
+devolver,to return (an object),0
+dormir,to sleep,0
+empezar,to begin,0
+encerrar,to enclose,0
+encontrar,to find,0
+entender,to understand,0
+jugar,to play,0
+mentir,to lie,0
+morir,to die,0
+mostrar,to show,0
+pedir,to ask for,0
+pensar,to think,0
+perder,to lose / to waste,0
+perseguir,to chase,0
+preferir,to prefer,0
+recomendar,to recommend,0
+recordar ,to remember,0
+repetir,to repeat,0
+seguir,to follow/ to continue doing something,0
+servir,to serve,0
+volver,to return,0
+la ciudad,city,0
+la cuenta,bill/account,0
+la película,movie/film,0
+el pueblo,town/village,0
+Voy a mandar esta carta,I'm going to mail this letter,0
+ir,to go,0
+yo voy,I go,0
+tu vas,you go (fam),0
+Ud. Va,you go (form),0
+el/ ella va,he/she goes,0
+nosotros vamos,we go,0
+vosotros vais,yawl go (spain),0
+Uds. Van,yawl go,0
+ellos van,they go,0
+yo encuentro,I find,0
+yo almuerzo,I have lunch,0
+yo cuesto,I cost,0
+yo duermo,I sleep,0
+yo muero,I die,0
+yo muestro,I show,0
+yo recuerdo,I remember,0
+yo vuelvo,I return,0
+yo juego,I play,0
+yo cierro,I close,0
+yo comienzo,I begin,0
+yo empiezo,I begin,0
+yo entiendo,I understand (not comprendo),0
+yo miento,I lie,0
+yo pienso,I think,0
+yo pierdo,I lose/waste,0
+yo prefiero,I prefer,0
+yo recomiendo,I recommend,0
+yo pido,I ask for,0
+yo repito,I repeat,0
+yo sigo,I follow/continue doing something,0
+yo sirvo,I serve,0
+yo se,I know (facts),0
+tu sabes,you know (facts)(fam),0
+Ud. Sabe,you know (facts)(form),0
+nosotros sabemos,we know (facts),0
+Yo se toca la guitarra,I know how to play the guitar,0
+¿Que sabes sobre la música de Guatemala?,What do you know about Guatemalan music?,0
+a la derecha (de),to the right (of),0
+a la izquierda (de),to the left (of),0
+al lado (de),next (to),0
+detrás (de),behind,0
+enfrente (de),in front (of),0
+estar de acuerdo,to agree,0
+mejor,best,0
+peor,worst,0
+el altillo,attic,0
+el balcón,balcony,0
+el baño,bathroom,0
+la cocina,kitchen,0
+el comedor,dining room,0
+el cuarto,room,0
+el dormitorio,bedroom,0
+la escalera,staircase,0
+el garaje,garage,0
+el jardín,garden,0
+la oficina,office,0
+el piso,floor like which floor of the building,0
+la sala,living room,0
+el sótano,basement,0
+el suelo,floor ,0
+el techo,roof,0
+la planta baja,ground floor,0
+el primer piso,second floor,0
+el segundo piso,third floor,0
+el tercer piso,fourth floor,0
+conocer,to be acquainted with,0
+dar,to give,0
+hacer,to do / to make,0
+oír,to hear,0
+poder,to be able to,0
+poner,to put / to place,0
+querer,to want / to love,0
+salir,to leave / to go out,0
+traer,to bring,0
+venir,to come,0
+ver,to see (with ones eyes ),0
+la alfombra,rug / carpet,0
+el estante,bookcase,0
+la lampara,lamp,0
+el sillón,armchair,0
+el sofá,sofa,0
+la estufa,stove,0
+el lavaplatos,dishwasher,0
+el microondas,microwave,0
+el refrigerador,refrigerator,0
+la bañera,bathtub,0
+el bidé,bidet,0
+la ducha,shower,0
+el inodoro,toilet,0
+el lavabo,sink,0
+la almohada,pillow,0
+la cama,bed ,0
+la colcha,bedspread / comforter,0
+la cómoda,dresser,0
+la manta,blanket,0
+las sabanas,sheets,0
+el  armario,armoire/closet/cabinet,0
+la cosa,thing,0
+el cuadro,picture / painting,0
+el mueble,piece of furniture,0
+el objeto,object,0
+la ropa,clothes,0
+amueblado,furnished,0
+arreglar,to straighten up/ to fix,0
+ayudar,to help,0
+cocinar,to cook,0
+preparar la comida,to prepare a meal,0
+guardar,to put away / to keep,0
+hacer la cama,to make the bed,0
+lavar los platos,to wash the dishes,0
+limpiar,to clean,0
+pasar la aspiradora,to vacuum,0
+poner la mesa,to set the table,0
+sacar la basura,to take out the trash,0
+sacudir los muebles,to dust,0
+desordenado,messy,0
+limpio,clean,0
+sucio,dirty,0
+amarillo,yellow,0
+anaranjado,orange,0
+azul,blue,0
+beige,beige,0
+blanco,white,0
+gris,gray,0
+marrón,brown,0
+morado,purple,0
+negro,black,0
+rojo,red,0
+rosado,pink,0
+verde,green,0
+tener … anos,to be … years old,0
+tener calor,to be hot,0
+tener cuidado,to be careful,0
+tener éxito,to be successful,0
+tener frio,to be cold,0
+tener ganas de + infinitivo,to feel like + (verb),0
+tener hambre,to be hungry,0
+tener miedo,to be afraid,0
+tener prisa,to be in a hurry,0
+tener que + infinitivo,to have to + (verb),0
+tener razón,to be right,0
+tener sueno,to be sleepy,0
+tener suerte,to be lucky,0
+tener vergüenza,to be embarrassed,0
+mil,1,0
+mil uno,1.001,0
+mil diez,1.01,0
+dos mil,2,0
+treinta mil,30,0
+cien mil,100,0
+un millón,1.000.000,0
+dos millones,2.000.000,0
+cien millones,100.000.000,0
+primer / primero,first,0
+segundo,second,0
+tercer / tercero,third,0
+cuarto,fourth,0
+quinto,fifth,0
+sexto,sixth,0
+séptimo,seventh,0
+octavo,eight,0
+noveno,ninth,0
+decimo,tenth,0
+hay,there is / there are,0
+hay que + infinitivo,It's necessary to …,0
+hay que limpiar el baño,It is necessary to clean the bathroom,0
+Hay que sacar la basura?,Is it necessary to take out the trash?,0
+a lado (de),beside,0
+encima (de),on top (of),0
+sobre,on/ on top(of)/ over / about,0
+siempre,always,0
+a menudo,often,0
+a veces,sometimes,0
+nunca,never,0
+yo vengo,I come,0
+tu vienes,you come,0
+yo digo,I say,0
+tu dices,you say,0
+yo oigo,I hear,0
+tu oyes,you hear,0
+yo puedo,I am able to,0
+tu puedes,you are able to,0
+yo quiero,I want / I love,0
+tu quieres,you want / you love,0
+nosotros podemos,we are able to,0
+yo conozco,I am acquainted with,0
+yo doy,I give,0
+yo hago,I make,0
+yo pongo,I put / I place,0
+yo salgo,I leave / I go out,0
+yo traigo,I bring,0
+yo veo,I see (with my eyes ),0
+antiguo,old / antique,0
+la calle,street,0
+el campo,country (like out in the country),0
+la ciudad,city,0
+contemporáneo,contemporary,0
+humilde,humble,0
+moderno,modern,0
+nuevo,new,0
+tradicional,traditional,0
+viejo,old,0
+la administración de empresas,business administration,0
+la arquitectura,architecture,0
+el arte,art,0
+la biología,biology,0
+las ciencias,science(s),0
+el derecho,law,0
+los idiomas,languages,0
+la informática,computer science,0
+la literatura,literature,0
+las matemáticas,mathematics,0
+la medicina,medicine,0
+la música,music,0
+la pedagogía,education,0
+el periodismo,journalism,0
+la psicología,psychology,0
+el curso,course,0
+el semestre,semester,0
+los apuntes,notes,0
+el bolígrafo,pen,0
+el borrador,eraser,0
+el compañero de clase,classmate,0
+la composición,composition,0
+el cuaderno,notebook,0
+el escritorio,desk,0
+el estudiante,student,0
+el examen,exam,0
+el lápiz,pencil,0
+el libro,book,0
+el mapa,map,0
+la mochila,book bag,0
+el papel,paper,0
+la pared,wall,0
+la pizarra (interactiva),chalkboard/ (interactive) whiteboard,0
+el profesor,professor,0
+la puerta,door,0
+la sala de clase,classroom,0
+la silla,chair,0
+la tarea,homework,0
+la tiza,chalk,0
+la ventana,window,0
+abrir,to open,0
+aprender,to learn,0
+comer,to eat,0
+comprar,to buy,0
+comprender,to learn,0
+contestar,to answer,0
+correr,to run,0
+creer,to believe,0
+ensenar,to teach / to show,0
+escribir,to write,0
+esperar,to wait for / to hope,0
+estar,to be (not ser),0
+estudiar,to study,0
+hablar,to speak,0
+leer,to read,0
+llegar,to arrive,0
+mirar,to look at / to watch,0
+necesitar,to need,0
+preguntar,to ask ( a question),0
+preparar,to prepare / to get ready,0
+recibir,to receive,0
+regresar,to return,0
+terminar,to finish / to end,0
+tomar,to take / to drink,0
+trabajar,to work,0
+usar,to use,0
+vivir,to live,0
+el apartamento,apartment,0
+la biblioteca,library,0
+la cafetería,cafeteria,0
+el centro estudiantil,student center,0
+el cuarto ,room,0
+el edificio,building,0
+el estadio,stadium,0
+el gimnasio,gymnasium,0
+el laboratorio,laboratory,0
+la librería,bookstore,0
+la residencia estudiantil,dormitory (the building),0
+la tienda,store,0
+la calculadora,calculator,0
+al compañero de cuarto,roommate,0
+el despertador,alarm clock,0
+el DVD,DVD,0
+el horario (de clases),schedule (of classes),0
+el radio / la radio,radio the object / radio what you listen to,0
+el reloj,clock / watch,0
+la tableta,tablet,0
+el teléfono celular,cell phone,0
+la televisión,television,0
+bailar,to dance,0
+caminar,to walk,0
+el equipo,team,0
+escuchar música,listen to music,0
+ir de compras,to go shopping,0
+jugar al basquetbol,to play basketball,0
+jugar al beisbol,to play baseball,0
+jugar al futbol,to play soccer,0
+jugar al futbol americano,to play football,0
+jugar al tenis,to play tennis,0
+montar en bicicleta,to ride a bike,0
+nadar,to swim,0
+patinar,to skate,0
+la pelota,ball,0
+tocar un instrumento,to play an instrument,0
+tomar el sol,to sunbathe,0
+ver la televisión,to watch television,0
+aburrido,boring,0
+cansado,tired,0
+contento,content/happy,0
+enfermo,ill/sick,0
+enojado,angry,0
+feliz,happy,0
+nervioso,upset/nervous,0
+preocupado,worried,0
+triste ,sad,0
+yo estoy,I am (not ser),0
+tu estas,You are (not ser),0
+Ud. Esta,You are (not ser form),0
+cien,100,0
+ciento uno,101,0
+ciento dos,102,0
+ciento dieciséis,116,0
+ciento veinte,120,0
+doscientos,200,0
+doscientos uno,201,0
+trescientos,300,0
+cuatrocientos,400,0
+quinientos,500,0
+seiscientos,600,0
+setecientos,700,0
+ochocientos,800,0
+novecientos,900,0
+difícil,difficult,0
+fácil,easy,0
+De dónde,from where,0
+Cuánto,how much,0
+Cuántos,how many,0
+Cuál,Which (one),0
+Cuáles,Which (ones),0
+Quién,Who,0
+Quiénes,Who (Pl.),0
+De dónde regresa Antonio,where is Antonio coming back from,0
+Cuánto estudia Antonio para la clase,How much does Antonio study for class,0
+Cuánta tiza hay,How much chalk is there,0
+Cuántos idiomas habla Antonio,How many languages does Antonio speak,0
+Cuántas compañeras llegan tarde,How many classmates arrive late,0
+Cuál es su clase favorita,Which is his favorite class,0
+Quién habla cinco idiomas,Who speaks five languages,0
+Quiénes hablan cinco idiomas,Who (Pl.) speaks five languages,0
+Qué,What,0
+Por qué,Why,0
+Cómo,How,0
+Cuándo,When,0
+Adónde,To where,0
+Dónde,Where,0
+pero,but,0
+también,too / also,0
+y ,and,0
+el abuelo,grandfather,0
+los abuelos,grandparents,0
+el esposo,husband,0
+el hermano,brother,0
+el hijo,son,0
+la madrastra,stepmother,0
+la madre / la mama,mother,0
+el nieto,grandson,0
+el padrastro,stepfather,0
+el padre / el papa,father,0
+la primo,cousin,0
+el sobrino,nephew,0
+el tío,uncle,0
+el amigo,friend,0
+el chico,boy,0
+el hombre,man,0
+el joven,young man,0
+el muchacho,boy,0
+la mujer,woman,0
+el niño,little boy,0
+el novio,boyfriend,0
+el señor,sir,0
+la señora,misses,0
+la señorita,miss ,0
+antipático,unpleasant,0
+bueno,good,0
+cómico,funny / comical,0
+inteligente,intelligent,0
+interesante,interesting,0
+malo,bad,0
+paciente,patient,0
+perezoso,lazy,0
+pobre,poor,0
+responsable,responsible,0
+rico,rich,0
+simpático,nice,0
+amable,kind,0
+tonto,silly / dumb,0
+trabajador,hard working,0
+muy,very,0
+(un) poco,(a) little,0
+alto,tall,0
+bajo,short,0
+bonita,pretty,0
+débil,weak,0
+delgado,thin,0
+feo,ugly,0
+fuerte,strong,0
+gordo,fat,0
+grande,big / large,0
+guapo,handsome,0
+joven,young,0
+mayor,old (person ),0
+pequeño,small,0
+treinta,thirty,0
+cuarenta,forty,0
+cincuenta,fifty,0
+sesenta,sixty,0
+setenta,seventy,0
+ochenta,eighty,0
+noventa,ninety,0
+cien,one hundred,0
+tener,to have,0
+yo tengo,I have,0
+tu tienes,you have,0
+Ud. Tiene,you have (form),0
+mas,plus,0
+menos,minus,0
+son,equals,0
+por,times,0
+dividió por,divided by,0
+mi / mis,my,0
+tu / tus,your,0
+su / sus,your ( form ),0
+su / sus,his / her / its,0
+nuestro /a/os/as,our,0
+vuestro /a/os/as,your (Pl.) (spain),0
+su / sus,your (Pl.),0
+su / sus,their,0
+el,the (s. masc.),0
+los,the (Pl. masc.),0
+la,the (s fem),0
+las,the (Pl. fem),0
+un,a/one (masc.),0
+una,a/one (fem),0
+unos,some (masc.),0
+unas,some (fem),0
+A la … /  A las .. ,At … o'clock,0
+Es la… /Son las…,It's … o'clock ( answering what time is it),0
+A qué hora … ?,At what time … ?,0
+Qué hora es?,What time is it,0
+… de la mañana,… (time) in the morning,0
+… de la noche,… (time) in the evening / night,0
+… del la tarde,… (time) in the afternoon,0
+la medianoche,midnight,0
+el mediodía,noon,0
+… menos cinco,five minutes to … (the hour),0
+… y cinco,five after … (the hour),0
+Está nublado,It's cloudy,0
+Hace buen tiempo,the weather is nice,0
+Hace calor,its hot,0
+Hace frio,its cold,0
+Hace mal tiempo,the weather is bad,0
+Hace sol,it's sunny,0
+Hace viento,it's windy,0
+llueve,it's raining,0
+Nieva,It's snowing,0
+la nueve,snow,0
+la nube,cloud,0
+Qué tiempo hace?,What is the weather like?,0
+el sol,the sun,0
+la temperatura,the temperature,0
+el viento,the wind,0
+el invierno,winter,0
+la primavera,spring,0
+el otoño,fall,0
+el verano,summer,0
+Cuál es la feche de hoy,What is todays date?,0
+Qué día es hoy,What is today?,0
+Hoy es primero de septiembre,Today is September 1st,0
+Hoy es el dos de diciembre,today is December 2,0
+Hoy es lunes,today is Monday,0
+Mañana es el tres de noviembre ,tomorrow is Nov. 3,0
+enero,January,0
+febrero,February,0
+marzo,march,0
+abril,April,0
+mayo,may,0
+junio,June,0
+julio,July,0
+agosto,august,0
+septiembre,September,0
+octubre,October,0
+noviembre,November,0
+diciembre,December,0
+ser,to be,0
+gustar,to like,0
+lunes,Monday,0
+martes,Tuesday,0
+miércoles,Wednesday,0
+jueves,Thursday,0
+viernes,Friday,0
+sábado,Saturday,0
+domingo,Sunday,0
+cero,zero,0
+uno,one,0
+dos,two,0
+tres,three,0
+cuatro,four,0
+cinco,five,0
+seis,six,0
+siete,seven,0
+ocho,eight,0
+nueve,ninety,0
+diez,ten,0
+once,eleven,0
+doce,twelve,0
+trece,thirteen,0
+catorce,fourteen,0
+quince,fifteen,0
+dieciséis,sixteen,0
+veinte,twenty,0
+treinta,thirty,0
+yo soy,I am,0
+tu eres,you are (fam),0
+Ud. Es,you are (form),0
+el es,he is,0
+nosotros somos,we are,0
+vosotros sois,y'all are (spain),0
+Uds. Son,y'all are,0
+ellos son,they are,0
+yo,I (personal),0
+tu,you (pers. Fam),0
+usted,you (pers. Form),0
+el,he,0
+ella,she,0
+nosotros / as,we,0
+vosotros /as,y'all (spain),0
+ustedes,y'all,0
+ellos,they,0
+ellas,they (all girls),0
+alemán,German,0
+canadiense,Canadian,0
+chino,Chinese,0
+cubano,Cuban,0
+español,Spanish,0
+estadounidense,American (from the U.S.),0
+norteamericano,north American,0
+francés,French,0
+ingles,English,0
+japonés,Japanese,0
+mexicano,Mexican,0
+nigeriano,Nigerian,0
+puertorriqueño,Puerto Rican,0
+ir a + infinitivo,going to + verb,0

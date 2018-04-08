@@ -1,0 +1,114 @@
+﻿el brazo,arm,0,0
+la cintura,waist,0,0
+el corazón,heart,0,0
+el cuello,neck,0,0
+el cuerpo,body,0,0
+el dedo del pie,toe,0,0
+la espalda,back,1,0
+el estómago,stomach,1,0
+la garganta,throat,1,0
+la mano,hand,0,0
+el oído,inner ear,0,0
+el pecho,chest,0,0
+el pie,foot,1,0
+la pierna,leg,0,0
+la boca,mouth,0,0
+la cabeza,head,1,0
+la cara,face,0,0
+el diente,tooth,0,0
+la nariz,nose,0,0
+el ojo,eye,0,0
+la oreja,ear,0,0
+el pelo,hair,0,0
+la salud,health,0,0
+la sangre,blood,0,0
+doler (o->ue),to hurt,0,0
+estar enfermo,to be sick,1,0
+estar sano,to be healthy,0,0
+saludable,healthy,0,0
+ser alérgico a,to be allergic to,0,0
+acordarse de,to remember,0,0
+acostarse,to go to bed,0,0
+afeitarse,to shave,0,0
+arreglarse,to get ready,0,0
+bañarse,to bath,0,0
+caerse,to fall down,0,0
+cepillarse,to brush,0,0
+cepillarse el pelo,to brush ones hair,0,0
+cepillarse los dientes,to brush ones teeth,0,0
+cortarse,to cut ones self,0,0
+curarse,to be cured,0,0
+despertarse,to wake up,0,0
+divertirse,to enjoy oneself*to have fun,0,0
+dormirse,to fall asleep,0,0
+ducharse,to shower,0,0
+enfermarse,to get sick,0,0
+irse,to go away or leave,0,0
+lastimarse,to get hurt,0,0
+lavarse,to wash oneself,0,0
+levantarse,to get up or stand up,0,0
+llamarse,to be called,1,0
+maquillarse,to put on make up,0,0
+mejorarse,to improve,0,0
+peinarse,to comb ones hair,0,0
+ponerse la ropa,to put on ones clothes,1,0
+ponerse nervioso,to get nervous,1,0
+probarse la ropa,to try on clothes,0,0
+quedarse,to stay or remain,0,0
+quemarse,to get burned,0,0
+quitarse la ropa,to take off ones clothes,0,0
+reunirse,to get together to meet,0,0
+romperse,to break a bone,0,0
+secarse,to dry off,0,0
+sentarse,to sit down,0,0
+sentirse,to feel,0,0
+vestirse,to get dressed,0,0
+vendarse,to bandage oneself,0,0
+el doctor,m doctor,0,0
+la doctora,f doctor,1,0
+el enfermero,m nurse,0,0
+la enfermera,f nurse,1,0
+el examen físcio,physical exam,1,0
+la farmacia,pharmacy,0,0
+el hospital,hospital,1,0
+el médico,m doctor,0,0
+la médica,f doctor,0,0
+la sala de urgencias,emergency room,0,0
+el antiácido,antacid,0,0
+el antibiótico,antibiotic,0,0
+la aspirina,asprin,0,0
+la curita,adhesive bandage,0,0
+la inyección,shot,0,0
+el jarabe,cough syrup,0,0
+las pastillas,pills,0,0
+la receta,prescription,1,0
+la venda,f bandage,0,0
+el vendaje,m bandage,0,0
+evitar,to avoid,0,0
+guardar cama,to stay in bed,0,0
+el catarro,cold,0,0
+el resfriado,cold,0,0
+el dolor,pain,0,0
+el estronudo,sneeze,0,0
+la fiebre,fever,0,0
+la gripe,flu,0,0
+la herida,wound,0,0
+las náuseas,nausea,0,0
+la tos,cough,0,0
+estornudar,to sneeze,0,0
+tener alergia a,to be allergic to,1,0
+tener un catarro,to have a cold,0,0
+tener un resfriado,to have a cold,0,0
+tener la gripe,to have the flu,1,0
+tener una gripe,to have a flu,1,0
+tener una infección,to have an infection,0,0
+tener tos,to have a cough,1,0
+tener un virus,to have a virus,0,0
+tener dolor de cabeza,to have a headache,1,0
+tener dolor de espalda,to have a backache,0,0
+tener dolor de estómago,to have a stomachache,0,0
+tener dolor de garganta,to have a sore throat,0,0
+toser,to cough,0,0
+acabar de + infinitivo,to have just finished something,0,0
+ocurrir,to occur,0,0
+tratar de,to try to,0,0

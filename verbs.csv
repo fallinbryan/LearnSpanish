@@ -1,0 +1,391 @@
+﻿ser,to be,1,0
+soy,I am,0,0
+eres,you are informal,1,0
+es,you-he-she-it is,1,1
+somos,we are,1,1
+sois,you all are formal,0,0
+son,you-they are,1,1
+fui,I was,0,0
+fuiste,you were informal,0,0
+fue,you-he-she-it was,1,0
+fuimos,we were,0,1
+fuisteis,you all were formal,0,0
+fueron,you-they were,0,0
+era,I used to be,1,1
+eras,you used to be informal,0,0
+era,you-he-she-it used to be,0,0
+éramos,we used to be,0,0
+erais,you all used to be formal,0,0
+eran,you-they used to be,0,1
+ir,to go,0,0
+voy,I go,0,1
+vas,you go informal,0,0
+va ,you-he-she-it goes ,0,1
+vamos,we go,0,0
+vais,you all go formal,0,0
+van,you-they go,0,0
+fui,i went,0,0
+fuiste,you went informal,1,0
+fue,you-he-she-it went,0,0
+fuimos,we went,0,0
+fuisteis,you all went formal,0,0
+fueron,you-they went,0,0
+iba,I used to go,0,0
+ibas,you used to go informal,0,0
+iba,you-he-she-it used to go,1,0
+íbamos,we used to go,0,1
+ibais,you all used to go formal,0,1
+iban,you-they used to go,0,1
+estar,to be,0,0
+estoy,I am,0,0
+estás,you are informal,0,1
+está,you-he-she-it is,0,0
+estamos,we are,0,0
+estáis,you all are formal,0,0
+están,you-they are,0,0
+estuve,I was,0,0
+estuviste,you were informal,0,0
+estuvo,you-he-she-it was,0,0
+estuvimos,we were,0,0
+estuvisteis,you all were formal,0,0
+estuvieron,you-they were,0,1
+estaba,I used to be,0,1
+estabas,you used to be informal,0,0
+estaba,you-he-she-it used to be,0,0
+estámos,we used to be,0,0
+estabais,you all used to be formal,0,1
+estaban,you-they used to be,0,0
+ver,to see,0,0
+veo,I see,0,1
+ves,you see informal,0,1
+ve,you-he-she-it sees,0,0
+vemos,we see,0,1
+veis,you all see formal,0,0
+ven,you-they see,0,0
+vi,I saw,0,1
+viste,you saw informal,1,0
+vio,you-he-she-it saw,0,0
+vimos,we saw,1,0
+visteis,you all saw informal,0,0
+vieron,you-they saw,0,0
+veía,I used to see,0,0
+veías,You used to see informal,0,0
+veía,you-he-she-it used to see,0,1
+veíamos,we used to see,0,0
+veíais,you all used to see formal,0,0
+veían,you-they used to see,0,0
+tener,to have,0,0
+tengo,tener yo present,0,1
+tienes,tener tú present,0,0
+tiene,tener él present,0,0
+tenemos,tener nos present,0,0
+tenéis,tener vos present,0,0
+tienen,tener ellos present,1,0
+tuve,tener yo preterite,0,0
+tuviste,tener tú preterite,0,0
+tuvo,tener él pret,0,0
+tuvimos,tener nos pret,0,0
+tuvisteis,tener vos pret,0,0
+tuvieron,tenro ellos pret,0,0
+dar,to give,0,0
+doy,dar yo now,0,0
+das,dar tú now,0,0
+da,dar él now,0,1
+damos,dar nos now,1,0
+dais,dar vos now,0,0
+dan,dar ellos now,0,0
+di,dar yo pret,1,0
+diste,dar tú pret,0,0
+dio,dar él pret,0,0
+dimos,dar nos pret,0,0
+disteis,dar vos pret,1,0
+dieron,dar ellos pret,0,0
+ceer,to believe,0,1
+creo,ceer yo now,0,1
+crees,creer tú now,0,0
+cree,creer él now,0,0
+creemos,creer nos now,1,0
+creéis,creer vos now,0,0
+creen,creer ellos now,0,1
+creí,creer yo pret,0,0
+creíste,creer tú pret,0,1
+creyó,creer él pret,1,1
+creímos,creer nos pret,1,0
+creísteis,creer  vos pret,0,0
+creyeron,creer ellos pret,0,1
+oír,to hear,0,1
+oigo,oír yo now,0,1
+oyes,oír tú now,0,1
+oye,oír él now,0,0
+oímos,oír nos now,0,1
+oís,oír vos now,0,1
+oyen,oír ellos now,0,0
+oí,oír yo pret,0,0
+oíste,oír tú pret,0,0
+oyó,oír él pret,0,0
+oímos,oír nos pret,0,0
+oísteis,oír vos pret,1,0
+oyeron,oír ellos pret,1,0
+dormir,to sleep,0,0
+duermo,dormir yo now,1,0
+duermes,dormir tú now,1,0
+duerme,dormir él now,1,1
+dormimos,dormir nos now,0,1
+dormis,dormir vos now,1,0
+duermen,dormir ellos now,1,0
+dormí,dormir yo pret,0,0
+dormiste,dormir tú pret,0,0
+dormió,dormir él pret,0,0
+dormimos,dormir nos pret,1,1
+dormisteis,dormir vos pret,0,1
+durmieron,dormir ellos pret,0,1
+pedir,to ask,0,0
+pido,pedir yo now,0,0
+pides,pedir tú now,0,0
+pide,pedir él now,0,0
+pedimos,pedier nos now,0,0
+pedís,pedir vos now,0,0
+piden,pedir ellos now,0,1
+pedí,pedir yo pret,0,0
+pediste,pedir tú pret,0,0
+pidió,pedir él pret,0,0
+pedimos,pedir nos pret,0,0
+pedísteis,pedir vos pret,0,0
+pidieron,pedir ellos pret,1,0
+servir,to serve,0,0
+sirvo,servir yo now,0,0
+sirves,servir tú now,1,0
+sirve,serivr él now,0,0
+servimos,servir nos now,1,0
+servís,servir vos now,0,0
+sirven,servir ellos now,0,0
+serví,servir yo pret,0,0
+serviste,servir tú pret,0,0
+sirvió,servir él pret,0,0
+servimos,servir nos pret,0,0
+sirvieron,servir ellos pret,0,0
+repetir,to repeat,0,0
+repito,repetir yo now,0,0
+repites,repetir tú now,0,1
+repite,repetir él now,0,0
+repetimos,repetir nos now,0,0
+repetís,repetir vos now,0,0
+repiten,repetir ellos now,0,0
+repetí,repetir yo pret,0,0
+repetiste,repetir tú pret,0,0
+repitió,repetir él pret,0,0
+repetimos,repetir nos pret,1,0
+repetisteis,repetir vos pret,0,0
+repitieron,repetir ellos pret,0,0
+sentir, to feel,0,0
+siento,sentir yo now,0,0
+sientes,sentir tú now,0,0
+siente,sentir él now,0,0
+sentimos,sentir nos now,0,1
+sentís,sentir vos now,0,0
+sienten,sentir ellos now,0,0
+sentí,sentir yo pret,1,0
+sentiste,sentir tú pret,1,0
+sintió,sentir él pret,0,0
+sentimos,sentir nos pret,0,1
+sentisteis,sentir vos pret,0,0
+sintieron,sentir ellos pret,0,0
+seguir,to follow,0,0
+sigo,seguir yo now,0,1
+sigues,seguir tú now,0,0
+sigue,seguir él now,0,0
+seguimos,seguir nos now,0,1
+seguís,seguir vos now,0,0
+siguen,seguir ellos now,1,0
+seguí,seguir yo pret,0,0
+seguiste,seguir tú pret,1,0
+siguió,seguir él pret,0,0
+seguimos,seguir nos pret,0,0
+seguisteis,seguir vos pret,0,1
+siguieron,seguir ellos pret,1,0
+preferir,to prefer,0,0
+prefiero,preferir yo now,0,0
+prefieres,preferir tú now,0,0
+prefiere,preferir él now,0,0
+preferimos,preferir nos now,0,1
+preferís,preferir vos now,0,0
+prefieren,preferir ellos now,0,0
+preferí,preferir yo pret,0,0
+preferiste,preferir tú pret,0,1
+prefirió,preferir él pret,0,0
+preferimos,preferir nos pret,1,0
+preferisteis,preferir vos pret,1,0
+prefirieron,preferir ellos pret,0,0
+hacer,to do or make,0,0
+hago,hacer yo now,0,1
+haces,hacer tú now,0,1
+hace,hacer él now,1,1
+hacemos,hacer nos now,0,0
+hacéis,hacer vos now,1,0
+hacen,hacer ellos now,0,0
+hice,hacer yo pret,0,0
+hiciste,hacer tú pret,1,0
+hizo,hacer él pret,0,1
+hicimos,hacer nos pret,0,0
+hicisteis,hacer vos pret,0,1
+hicieron,hacer ellos pret,0,0
+poder,to put or place,1,0
+pongo,poder yo now,0,0
+pones,poder tú now,0,0
+pone,poder él now,1,1
+ponemos,poder nos now,0,0
+ponéis,poder vos now,0,0
+ponen,poder ellos now,0,0
+puse,poder yo pret,0,0
+pusiste,poder tú pret,0,0
+puso,poder él pret,0,0
+pusimos,poder nos pret,0,0
+pusisteis,poder vos pret,0,0
+pusieron,poder ellos pret,0,0
+querer,to want or love,0,1
+quiero,querer yo now,0,0
+quieres,querer tú now,0,0
+quiere,querer él now,0,0
+queremos,querer nos now,0,0
+queréis,querer vos now,1,0
+quieren,querer ellos now,0,1
+quise,querer yo pret,0,0
+quisiste,querer tú pret,0,0
+quiso,querer él pret,0,0
+quisimos,querer nos pret,0,0
+quisisteis,querer vos pret,0,0
+quisieron,querer ellos pret,0,0
+saber,to know,0,0
+sé,saber yo now,0,0
+sabes,saber tú now,0,1
+sabe,saber él now,0,1
+sabemos,saber nos now,1,0
+sabéis,saber vos now,0,0
+saben,saber ellos now,0,0
+supe,saber yo pret,0,0
+supiste,saber tú pret,0,1
+supo,saber él pret,0,0
+supimos,saber nos pret,0,0
+supisteis,saber vos pret,0,0
+supieron,saber ellos pret,0,0
+venir,to come,1,0
+vengo,venir yo now,0,1
+vienes,venir tú now,0,0
+viene,venir él now,0,0
+venimos,venir nos now,0,0
+venís,venir vos now,0,0
+vienen,venir ellos now,1,0
+vine,venir yo pret,1,0
+viniste,venir tú pret,0,0
+vino,venir él pret,0,0
+vinimos,venir nos pret,0,0
+vinisteis,venir vos pret,1,0
+vinieron,venir ellos pret,0,0
+traer,to bring,0,0
+traigo,traer yo now,0,0
+traes,traer tú now,0,0
+trae,traer él now,0,0
+traemos,traer nos now,0,0
+traéis,traer vos now,0,0
+traen,traer ellos now,0,0
+traje,traer yo pret,1,0
+trajiste,traer tú pret,0,0
+trajo,traer él pret ,0,0
+trajimos,traer nos pret,0,0
+trajisteis,traer vos pret,1,1
+trajeron,traer ellos pret,0,1
+decir,to say or tell,0,0
+digo,decir yo now,1,0
+dices,decir tú now,0,1
+dice,decir él now,0,1
+decimos,decir nos now,0,0
+decis,decir vos now,1,0
+dicen,decir ellos now,0,0
+dije,decir yo pret,0,0
+dijiste,decir tú pret,0,0
+dijo,decir él pret,0,0
+dijimos,decir nos pret,0,0
+dijisteis,decir vos pret,0,0
+dijeron,decir ellos pret,0,0
+jugar,to play,1,0
+juego,jugar yo now,0,0
+juegas,jugar tú now,0,0
+juega,jugar él now,0,0
+jugamos,jugar nos now,0,0
+jugaís,jugar vos now,0,0
+juegan,jugar ellos now,0,0
+jugué,jugar yo pret,1,0
+jugaste,jugar tú pret,0,0
+jugó,jugar él pret,0,0
+jugamos, jugar nos pret,0,0
+jugasteis,jugar vos pret,1,1
+jugaron,jugar ellos pret,0,0
+beber,to drink,0,1
+cocinar,to eat,0,0
+cenar,to have dinner,0,0
+desayunar,to have breakfast,0,0
+dormir,to sleep,0,0
+duermo,dormir yo now,0,1
+duermes,dormir tú now,0,0
+duerme,dormir él now,0,1
+dormimos,dormir nos now,0,0
+dormís,dormir vos now,0,0
+duermen,dormir ellos now,0,0
+dormí,dormir yo pret,0,0
+dormiste,dormir tú pret,0,0
+durmió,dormir él pret,0,0
+dormimos,dormir nos pret,0,1
+dormisteis,dormir vos pret,0,1
+durmieron,dormir ellos pret,0,0
+empezar,to begin,0,1
+empiezo,empezar yo now,0,1
+empiezas,empezar tú now,0,0
+empieza,empezar él now,0,0
+empezamos,empezar nos now,0,1
+empezáis,empezar vos now,0,0
+empiezan,empezar ellos now,0,0
+empecé,empezar yo pret,0,0
+empezaste,empezar tú pret,0,0
+empezó,empezar él pret,0,0
+empezamos,empezar nos pret,0,1
+empezasteis,empezar vos pret,0,0
+empezaron,empezar ellos pret,0,0
+merendar,to have snack,0,0
+pagar,to pay,0,0
+reservar,to reserve,0,1
+fritar,to fry,0,0
+llegar,to arrive,1,1
+llevar,to take or wear,0,0
+prestar,to loan,0,0
+encantar,to love or like very much,0,1
+fascinar,to fascinate,0,0
+hacer falta,to need or to be lacking,0,0
+importar,to matter or be important,0,0
+molestar,to bother,0,0
+morir,to die,0,0
+muero,morir yo now,0,0
+mueres,morir tú now,0,0
+muere,morir él now,0,0
+morimos,morir nos now,0,0
+morís,morir vos now,0,0
+mueren,morir ellos now,0,0
+morí,morir yo pret,0,0
+moriste,morir tú pret,0,1
+murió,morir él pret,0,0
+morimos,morir nos pret,0,0
+moristeis,morir vos pret,0,0
+murieron,morir ellos pret,0,0
+ensayer,to practice,0,0
+grabar,to record,0,0
+recordar,to remember,1,0
+recuerdo,recordar yo now,0,0
+recuerdas,recordar tú now,1,0
+recuerda,recordar él now,0,0
+recuerdan,recordar ellos now,0,0
+deber,should,0,0
+tocar,to take or drink,0,0
+trabajar,to work,0,0
+organizar,to organize,0,0
+viajar,to travel,0,0
+buscar,to look,1,0
+busqué,buscar yo pret,0,0

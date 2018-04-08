@@ -1,0 +1,76 @@
+yo,subject pronoun I,0,1
+usted,subject pronoun you formal,0,0
+tú,subject pronoun you informal,0,1
+él,subject pronoun he,0,0
+ella,subject pronoun she,0,1
+nosotros,subject pronoun we,0,1
+vosotros,subject pronoun you all formal,0,1
+ustedes,subject pronoun you all,0,1
+ellos,subject pronoun they masc,0,1
+ellas,subject pronoun they fem,0,1
+mi,possessive adjective pronoun my singular,0,1
+mis,possessive adjective pronoun my plural,0,1
+tu,possessive adjective pronoun your singular,0,1
+tus,possessive adjective pronoun your plural,0,1
+su,possessive adjective pronoun his-hers-their sing,0,1
+sus,possessive adjective pronoun his-hers-their pl,0,1
+nuestro,possessive adjective pronoun our masc sing,0,1
+nuestra,possessive adjective pronoun our fem sing,0,0
+nuestros,possessive adjective pronoun our masc pl,0,1
+nuestras,possessive adjective pronoun our fem pl,0,1
+vuestro,possessive adjective pronoun you all masc sing,0,1
+vuestra,possessive adjective pronoun you all fem sing,0,0
+vuestros,possessive adjective pronoun you all masc pl,0,0
+vuestras,possessive adjective pronoun you all fem pl,0,1
+me,direct object pronoun me,0,1
+te,direct object pronoun you,0,1
+lo,direct object pronoun him,0,0
+la,direct object pronoun her,0,1
+nos,direct object pronoun us,0,1
+os,direct object pronoun you all,0,1
+los,direct object pronoun them masc,0,1
+las,direct object pronoun them fem,0,0
+me,indirect object pronoun me,0,0
+te,indirect object pronoun you,0,0
+le,indirect object pronoun he-she-it,0,0
+nos,indirect object pronoun us,0,0
+os,indirect object pronoun you all,0,0
+les,indirect object pronoun them,0,1
+se,indirect le or les preceding lo la los las,0,1
+me,reflexive pronoun myself,0,0
+te,reflexive pronoun yourself,0,0
+se,reflexive pronoun himself-herself-themselves,0,0
+nos,reflexive pronoun ourselves,0,0
+os,reflexive pronoun yourselves,0,0
+RID,order of object pronouns reflexive-indirect-object,0,0
+qué,what?,0,1
+cuál,which? sing,0,1
+cuáles,which? pl,0,1
+cuánto,how much? sing masc,0,1
+cuánta,how much? sing fem,0,1
+cuántos,how much? pl masc,0,0
+cuántas,how much? pl fem,0,1
+quién,who? sing,0,0
+quiénes,who? pl,0,0
+éste,this one - masc,0,0
+ésta,this one - fem,0,0
+esto,this one - neuter,0,1
+ése,that one - masc,0,1
+ésa,that one - fem,0,0
+eso,that one - neuter,0,1
+aquél,that one far - masc,0,1
+aquélla,that one far - fem,0,1
+aquello,that one far - neuter,0,1
+éstos,these ones - masc,0,1
+éstas,these ones - fem,0,1
+estos,these ones - neuter,0,1
+ésos,those ones - masc,0,1
+ésas,those ones - fem,0,1
+esos,those ones - neuter,0,0
+aquéllos,those ones far - masc,0,1
+aquéllas,those ones far - fem,0,0
+aquellos,those ones far - neuter,0,0
+algo,something-anything,0,1
+nada,nothing,0,0
+alguien,someone-anyone,0,0
+nadie,no one,0,1

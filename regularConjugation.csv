@@ -1,0 +1,54 @@
+-o,regular -ar present first person singular,0,1
+-o,regular -er present first person singular,0,0
+-o,regular -ir present first person singular,0,0
+-as,regular -ar present second person singular informal,0,0
+-es,regular -er present second person singular informal,0,0
+-es,regular -ir present second person singular informal,0,0
+-a,regular -ar present third person singular,0,0
+-e,regular -er present third person singular,0,0
+-e,regular -ir present third person singular,0,0
+-amos,regular -ar present first person plural,0,0
+-emos,regular -er present first person plural,0,0
+-imos,regular -ir present first person plural,0,0
+-áis,regular -ar present second person plural formal,0,0
+-éis,regular -er present second person plural formal,0,0
+-ís,regular -er present second person plural formal,0,0
+-an,regular -ar present third person plural,0,0
+-en,regular -er present third person plural,0,0
+-en,regular -ir present third person plural,0,0
+-é,regular -ar preterite first person singular,0,0
+-í,regular -er preterite first person singular,0,0
+-í,regular -ir preterite first person singular,0,0
+-aste,regular -ar preterite second person singular informal,0,0
+-iste,regular -er preterite second person singular informal,0,0
+-iste,regular -ir preterite second person singular informal,0,0
+-ó,regular -ar preterite third person singular,0,0
+-ió,regular -er preterite third person singular,0,0
+-ío,regular -ir preterite third person singular,0,0
+-amos,regular -ar preterite first person plural,0,0
+-imos,regular -er preterite first person plural,0,0
+-imos,regular -ir preterite first person plural,0,0
+-asteis,regular -ar preterite second person plural formal,0,0
+-isteis,regular -er preterite second person plural formal,0,1
+-isties,regular -ir preterite second person plural formal,0,0
+-aron,regular -ar preterite third person plural,0,0
+-ieron,regular -er preterite third person plural,0,0
+-ieron,regular -ir preterite third person plural,0,0
+-aba,regular -ar imperfect first person singular,0,0
+-ía,regular -er imperfect first person singular,0,1
+-ía,regular -ir imperfect first person singular,0,0
+-abas,regular -ar imperfect second person singular informal,0,0
+-ías,regular -er imperfect second person singular informal,0,0
+-ías,regular -ir imperfect second person singular informal,0,0
+-aba,regular -ar imperfect third person singular,0,0
+-ía,regular -er imperfect third person singular,0,0
+-ía,regular -ir imperfect thrid person singular,0,0
+-ábamos,regular -ar imperfect first person plural,0,1
+-íamos,regular -er imperfect first person plural,0,0
+-íamos,regular -ir imperfect first person plural,0,0
+-abais,regular -ar imperfect second person plural formal,0,0
+-íais,regular -er imperfect second person plural formal,0,0
+-íais,regular -ir imperfect second person plural formal,0,0
+-aban,regular -ar imperfect third person plural,0,1
+-ían,regular -er imperfect third person plural,0,0
+-ían,regular -ir imperfect third person plural,0,0

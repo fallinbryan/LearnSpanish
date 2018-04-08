@@ -1,0 +1,84 @@
+el autobús,bus,0,0
+el avión,airplane,0,0
+el barco,boat,0,0
+la bicicleta,bicycle,0,0
+el camión,truck,0,0
+el carro,car,0,0
+el coche,car,0,0
+el metro,subway,0,0
+la moto (motocicleta),motorcycle,0,0
+el taxi,taxi,0,0
+el tren,train,0,0
+la autopista,highway,0,0
+el boleto,ticket,0,0
+la calle,street,0,0
+el estacionamiento,parking,0,0
+la gasolinera,gas station,0,1
+la licencia (de cunducir),drivers license,0,0
+la multa,traffic ticket,0,0
+la parada,bus stop,0,0
+el peatón,pedestrian m.,0,0
+la peatona,pedestrian f.,0,0
+el policía,policeman,0,0
+la policía,policewoman,0,0
+el ruido,noise,0,0
+el semáforo,traffic light,0,0
+el taller mecánico,auto repair shop,0,0
+el tráfico,traffic,0,0
+el vehículo,vehicle,0,0
+el aire acondicionado,air conditioning,0,0
+el baúl,trunk,0,0
+la calefacción,heater,0,0
+el limpiaparabrisas,windshield wiper,0,0
+la llanta,tire,0,0
+la llave,key,0,0
+el motor,motor,0,0
+el parabrisas,windshield,0,0
+el volante,steering wheel,0,0
+arreglar,to pack,0,0
+hacer la maleta,to pack a suitcase,0,0
+bajar (de),to get down from or off of,0,0
+cambiar,to change,0,0
+dejar,to leave,0,0
+doblar,to turn,0,0
+entrar,to enter,0,0
+estacionar,to park,0,0
+funcionar,to function,0,0
+hacer (la) cola,to stand in line,0,0
+ir a pie,to go on foot,0,0
+ir de vacaciones,to go on vacation,0,0
+ir de viaje,to go on a trip,0,0
+irse del hotel,to leave the hotel or checkout,0,0
+llenar el tanque,to fill up the gas tank,0,0
+manejar o conducir,to drive,0,0
+registrarse en el hotel,to check into a hotel,0,0
+revisar,to check or overhaul,0,0
+sacar la licencia,to get a drivers license,0,0
+subir a,to go up or get on,0,0
+viajar,to travel,0,0
+visitar,to visit,0,1
+volar,to fly or fly away,0,0
+el viaje,the trip,0,0
+el aeropuerto,airport,0,0
+la agencia de viajes,travel agency,0,0
+el agente de viajes,travel agent,0,0
+la estación de tren o autobús,train or bus station,0,0
+el extranjero,abroad,0,0
+la maleta,suitcase,0,0
+el pasaporte,passport,0,0
+los pasajeros,passengers,0,0
+la reserva,reservation,0,0
+el sello,postage stamp,0,0
+la tarjeta postal,post card,0,0
+las vacaciones,vacation,0,0
+los viajeros,travelers,0,0
+el vuelo de ida y vuelta,round trip flight,0,0
+el botones,bellhop,0,0
+el cuarto doble,double room,0,0
+el cuarto individual,single room,0,0
+la propina,tip,0,0
+la recepción,front desk,0,0
+el lago,lake,0,0
+las montañas,mountains,0,0
+el parque de atracciones,theme park,0,0
+la playa,beach,0,0
